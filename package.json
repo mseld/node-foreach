@@ -1,0 +1,12 @@
+{
+    "name": "node-foreach",
+    "version": "1.0.0",
+    "description": "Iterate over array - control flow sync",
+    "main": "foreach.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "mseld",
+    "license": "ISC"
+}
